@@ -44,7 +44,7 @@
      title_ru: Легкая прогулка
      text_ru: В дорогу дальнюю идем по неизведанным тропинкам. Сколько впереди ещё интересного!
      image: /assets/achievements/anime/animelist_5.jpg
-     border_color: "#FFDC33"
+     border_color: "#b04a6c"
 
 - <<: *defaults
   level: 6
